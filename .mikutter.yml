@@ -1,0 +1,9 @@
+---
+slug: :postbox_text_font
+depends:
+  mikutter: 4.0.0
+  plugin:
+version: 0.1
+author: tsutsui
+name: change postbox font
+description: make postbox font configurable
