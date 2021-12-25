@@ -20,7 +20,7 @@ Plugin.create :postbox_text_font do
     end
   end
 
-  settings("postbox_text_font") do
-    fontcolor _('ポストボックスのフォント'), :postbox_text_font, :postbox_text_color
+  settings(_('投稿ボックスフォント')) do
+    fontcolor _('投稿ボックスのフォント'), :postbox_text_font, :postbox_text_color
   end
 end
